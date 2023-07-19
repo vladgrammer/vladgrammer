@@ -16,7 +16,7 @@ Hi, i'm [Vladislav Stepanenko](https://github.com/vladgrammer)
 <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6">
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=Vue.js&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=Redux&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack&logoColor=8DD6F9">
 <img src="https://img.shields.io/badge/Node-black?style=for-the-badge&logo=React&logoColor=339933">
 </div>
