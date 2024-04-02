@@ -11,14 +11,12 @@ Hi, i'm [Vladislav Stepanenko](https://github.com/vladgrammer)
 
 ## Languages and Tools:
 <div>
-<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=HTML5&logoColor=E34F26">
-<img src="https://img.shields.io/badge/Cpp-black?style=for-the-badge&logo=CSS3&logoColor=1572B6">
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=3178C6">
-<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=Redux&logoColor=4FC08D">
-<img src="https://img.shields.io/badge/Webpack-black?style=for-the-badge&logo=Webpack&logoColor=8DD6F9">
-<img src="https://img.shields.io/badge/Node-black?style=for-the-badge&logo=React&logoColor=339933">
+<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=E34F26">
+<img src="https://img.shields.io/badge/Cpp-black?style=for-the-badge&logo=Cpp&logoColor=1572B6">
+<img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust&logoColor=3178C6">
+<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=61DAFB">
+
 </div>
 <div>
 <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=Next.js&logoColor=ffffff">
