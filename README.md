@@ -10,36 +10,26 @@
 Hi, i'm [Vladislav Stepanenko](https://github.com/vladgrammer)
 
 ## Languages and Tools:
-<div>
-<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=E34F26">
-<img src="https://img.shields.io/badge/Cpp-black?style=for-the-badge&logo=Cpp&logoColor=1572B6">
-<img src="https://img.shields.io/badge/Go-black?style=for-the-badge&logo=Go&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust&logoColor=3178C6">
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=61DAFB">
 
-</div>
 <div>
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=Next.js&logoColor=ffffff">
-<img src="https://img.shields.io/badge/PostCSS-black?style=for-the-badge&logo=PostCSS&logoColor=DD3A0A">
-</div>
-<!-- <div>
 <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
 <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=Cplusplus&logoColor=4B0082"/>
 <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=Go&logoColor=00ADD8"/>
 <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust&logoColor=B7410E"/>
-</div> -->
-<!-- <div>
+</div> 
+<div>
 <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=Redis&logoColor=4DC382D"/>
-</div> -->
-<!-- <div>
+</div> 
+ <div>
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624"/>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=483D8B"/>
 <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=00BFFF"/>
 </div>
-<div>
+
+<!-- <div>
 <img src="https://img.shields.io/badge/Arduino-black?style=for-the-badge&logo=Arduino&logoColor=00979D"/>
 </div> -->
 
