@@ -13,6 +13,7 @@ Hi, i'm [Vladislav Stepanenko](https://github.com/vladgrammer)
 
 <div>
 <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=Rust&logoColor=B7410E"/>
 <img src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=Go&logoColor=00ADD8"/>
 </div> 
 <div>
