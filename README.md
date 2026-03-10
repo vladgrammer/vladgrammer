@@ -26,7 +26,6 @@ Hi, i'm [Vladislav Stepanenko](https://github.com/vladgrammer)
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=483D8B"/>
 <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=00BFFF"/>
 </div>
-### Top Langs
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladgrammer&layout=compact)](https://github.com/vladgrammer/github-readme-stats) -->
 
 ### :fire: My Stats :
