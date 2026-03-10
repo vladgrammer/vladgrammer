@@ -1,13 +1,4 @@
 # vladgrammer
-## Vladislav Stepanenko
-
-## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-![](https://visitor-badge.glitch.me/badge?page_id=vladgrammer.vladgrammer)
-
-<br />
-
-Hi, i'm [Vladislav Stepanenko](https://github.com/vladgrammer)
 
 ## Languages and Tools:
 
@@ -26,7 +17,6 @@ Hi, i'm [Vladislav Stepanenko](https://github.com/vladgrammer)
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=483D8B"/>
 <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=00BFFF"/>
 </div>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladgrammer&layout=compact)](https://github.com/vladgrammer/github-readme-stats) -->
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladgrammer&theme=dark&background=000000)](https://git.io/streak-stats)
